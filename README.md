@@ -39,4 +39,4 @@ I'm a PhD researcher in biology, with an emphasis on entomology, biogeography, p
 ---
 
 ### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=paulasouto&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pauletadecores&show_icons=true&theme=radical)
